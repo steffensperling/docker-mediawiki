@@ -1,4 +1,4 @@
-FROM kristophjunge/mediawiki:1.28
+FROM kristophjunge/mediawiki:1.30
 MAINTAINER Steffen Sperling <steffen.sperling@ventum.com>
 
 RUN set -x; \
